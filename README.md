@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tham</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+![logo](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thém;" />
+</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
