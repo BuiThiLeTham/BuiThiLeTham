@@ -6,8 +6,10 @@
     
   Hi👋I'm Le Tham !
 </h1>
-<h2 align="center">Be More Confident</h2>
-<img align="right" alt="" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<h2 align="center">                                                                               
+             "Vì tương lai, phải nhai chặt từng miếng kiến thức" <br>
+</h2>
+<img align="right" alt="" width="400" src="https://as2.ftcdn.net/v2/jpg/05/96/25/57/1000_F_596255772_so9kJzFjcTOs5b2Cl7AltiKynldEHtBh.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buithiletham&label=Profile%20views&color=0e75b6&style=flat" alt="buithiletham" /> </p>
 - 📫  I'm a student at VKU, DaNang, VietNam.
 <h3 align="left">Languages and Tools:</h3>
@@ -61,12 +63,15 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="Trungquandev">
+<!--   <a href="#" title="Trungquandev">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuiThiLeTham&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
+  </a> -->
   <a href="#" title="Trungquandev">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=BuiThiLeTham&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
+    <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=caongao999&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+</div>
 </div>
 
 <br>
@@ -92,6 +97,14 @@
 </div>
 
 <br>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 
 
